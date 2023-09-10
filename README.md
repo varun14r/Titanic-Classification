@@ -13,7 +13,7 @@ Before running the code, ensure you have the following:
 
 - Python installed on your system.
 - Required libraries installed (Pandas, Matplotlib, Seaborn, Scikit-Learn).
-- The Titanic dataset (CSV file) available in the specified location.
+- The Titanic dataset (CSV file) is available in the specified location.
 
   ## Getting Started
 1. Clone this repository to your local machine:
@@ -35,4 +35,4 @@ Before running the code, ensure you have the following:
 - Make predictions using the trained model.
 
 # Conclusion
-The Titanic Survival Prediction project demonstrates the end-to-end process of solving a classic machine learning problem. By analyzing passenger data, preprocessing it, building a predictive model, and evaluating its performance, we gain valuable insights into the factors that influenced survival rates aboard the Titanic. This project serves as an educational resource for data science and machine learning enthusiasts, showcasing best practices for data analysis and model development.
+The Titanic Survival Prediction project demonstrates the end-to-end process of solving a classic machine-learning problem. By analyzing passenger data, preprocessing it, building a predictive model, and evaluating its performance, we gain valuable insights into the factors that influenced survival rates aboard the Titanic.
