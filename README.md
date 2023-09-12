@@ -15,7 +15,7 @@ Before running the code, ensure you have the following:
 - Required libraries installed (Pandas, Matplotlib, Seaborn, Scikit-Learn).
 - The Titanic dataset (CSV file) is available in the specified location.
 
-  ## Getting Started
+## Getting Started
 1. Clone this repository to your local machine:
    
         https://github.com/varun14r/Titanic-Classification.git
